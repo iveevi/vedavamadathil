@@ -4,12 +4,11 @@ Hey, I'm Venkataram Edavamadathil Sivaram (Venki). I am a an avid computer progr
 
 ## Project Highlights
 
-- [Kobra](https://github.com/vedavamadathil/kobra)
-- [Zhetapi](https://github.com/vedavamadathil/zhetapi)
-- [RL Racing](https://github.com/vedavamadathil/rl-racing)
-- [Contrained Fitting Paper](https://github.com/vedavamadathil/constrained-fitting)
-- [Vm](https://github.com/vedavamadathil/vm)
-- [Shell](https://github.com/vedavamadathil/shell)
+- [Kobra](https://github.com/vedavamadathil/kobra): A physically-based renderer specializing in state of the art ray-tracing tehcniques.
+- [Zhetapi](https://github.com/vedavamadathil/zhetapi): A C++ library for machine learning and numerical analysis.
+- [RL Racing](https://github.com/vedavamadathil/rl-racing): Reinforcement learning simulation for cars in a race track.
+- [Contrained Fitting Paper](https://github.com/vedavamadathil/constrained-fitting): An exploratory survey of algorithms for solving the constrained fitting problem.
+- [Vm](https://github.com/vedavamadathil/vm): An 8-bit virtual machine.
 
 
 ## Computer and Programming Skills
