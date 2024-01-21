@@ -1,6 +1,6 @@
 ## Intro
 
-Hey, I'm Venkataram Edavamadathil Sivaram (Venki). I am an avid computer programmer currently studying at UC San Diego. My main interests include computer graphics (e.g. raytracing and physically based rendering) and reinforcement learning.
+Hello! I am an avid computer programmer currently studying at UC San Diego. My main interests include computer graphics (e.g. raytracing and physically based rendering) and reinforcement learning.
 
 ## Project Highlights
 
